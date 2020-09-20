@@ -9,7 +9,6 @@ St.Petersburg
 ### Contact info:
 
 - tel.: +7(911) 141-95-79
-
 - e-mail: zvadastepan@gmail.com
 
 ### Objectives
@@ -26,3 +25,7 @@ I have elementary programming skills in **HTML**, **CSS** and **JavaScript**. I 
 - Basics of HTML
 - Basics of CSS
 2. I graduated from Saint-Petersburg Mining University.
+
+### English
+
+ I studied English at school, university and graduate school. Language proficiency level **Intermediate**.
